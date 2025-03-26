@@ -1,8 +1,1 @@
-{
-  "operationType": "+",
-  "operands": [
-    1,
-    2,
-    3
-  ]
-}
+{"operationType":"+","operands":[1,2,3]}
