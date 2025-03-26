@@ -1,4 +1,6 @@
-# restful-calculator 
+# restful-calculator
+
+[![Java CI with Maven](https://github.com/shortthirdman/restful-calculator/actions/workflows/maven.yml/badge.svg)](https://github.com/shortthirdman/restful-calculator/actions/workflows/maven.yml)
 
 A simple and lightweight Java-based calculator service built using Maven, implementing basic arithmetic operations (addition, subtraction, multiplication, and division) through HTTP REST APIs. This project serves as a backend API where users can send HTTP requests to perform mathematical calculations, providing a flexible and scalable way to integrate arithmetic functionality into any web application. The API supports JSON responses and is designed for ease of use and integration.  
 
